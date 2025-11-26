@@ -195,10 +195,10 @@ This project is developed for educational purposes as part of an academic curric
 
 ## Developer
 
-- **Name**: Your Name
-- **Course**: Mobile Application Development
-- **Institution**: Your University
-- **Date**: November 2024
+- **Name**: K M Azmaen Mahatub
+- **Course**: Mobile Application Development Techniques
+- **Institution**: Vilnius University
+- **Date**: 26th November 2025
 
 ## Repository
 
@@ -210,5 +210,3 @@ GitHub: https://github.com/kmazmaenmahatub/MADT_Lab_5_currency_rates_app.git
 
 ---
 *Built using Android Studio and Java*
-Build By:
-*K M Azmaen Mahatub*
