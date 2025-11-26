@@ -53,7 +53,7 @@ This application fetches live currency exchange rates from a public API and disp
 ### Building from Source
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CurrencyRatesApp.git
+   git clone [https://github.com/kmazmaenmahatub/MADT_Lab_5_currency_rates_app.git]
    ```
 
 2. **Open in Android Studio**
