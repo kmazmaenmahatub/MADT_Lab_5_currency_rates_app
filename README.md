@@ -199,7 +199,7 @@ This project is developed for educational purposes as part of an academic curric
 
 ## Repository
 
-GitHub: [https://github.com/yourusername/CurrencyRatesApp](https://github.com/yourusername/CurrencyRatesApp)
+GitHub: https://github.com/kmazmaenmahatub/MADT_Lab_5_currency_rates_app.git
 
 ---
 
