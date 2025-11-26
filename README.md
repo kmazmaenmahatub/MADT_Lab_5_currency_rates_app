@@ -53,7 +53,7 @@ This application fetches live currency exchange rates from a public API and disp
 ### Building from Source
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/kmazmaenmahatub/MADT_Lab_5_currency_rates_app.git]
+   git clone https://github.com/kmazmaenmahatub/MADT_Lab_5_currency_rates_app.git
    ```
 
 2. **Open in Android Studio**
@@ -76,7 +76,7 @@ The app uses the following API endpoints:
 CurrencyRatesApp/
 ├── app/
 │   └── src/main/
-│       ├── java/com/kmazmaenmahatub/currencyrateapp/
+│       ├── java/com/kmazmaenmahatub/currencyratesapp/
 │       │   ├── MainActivity.java          # Main UI and business logic
 │       │   ├── CurrencyItem.java          # Data model for currencies
 │       │   └── Parser.java               # JSON parsing utilities
@@ -139,6 +139,9 @@ public class CurrencyItem {
     // toString() for ListView display format
 }
 ```
+
+### Using a RELIABLE JSON API that doesn't require API key
+    private final String DATA_URL = "https://open.er-api.com/v6/latest/USD";
 
 ## API Integration
 
