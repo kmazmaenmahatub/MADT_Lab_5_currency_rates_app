@@ -164,13 +164,6 @@ The application integrates with financial APIs to provide real-time exchange rat
 - **Parsing errors**: Provides descriptive error messages
 - **Timeout handling**: 15-second connection timeout
 
-## Screenshots
-
-*(Add your app screenshots here)*
-- Main screen showing currency list
-- Filtered view for specific currencies
-- Refresh operation in progress
-
 ## Troubleshooting
 
 ### Common Issues
